@@ -5,12 +5,30 @@ body {
 #header {
 	background-color: rgb(100, 147, 155);
 	color: rgb(188, 210, 214);
+	height: 250px;
 }
 
 footer {
 		background-color: rgb(100, 147, 155);
+		color: rgb(188, 210, 214);
 }
 
 nav {
 	color: rgb(53, 78, 81);
+}
+
+#article1 {
+	color: rgb(53, 78, 81);
+}
+
+#article2 {
+	color: rgb(53, 78, 81);
+}
+
+h2 {
+	color: rgb(53, 78, 81);
+}
+
+h1, h2, h3 {
+	text-align: center;
 }
